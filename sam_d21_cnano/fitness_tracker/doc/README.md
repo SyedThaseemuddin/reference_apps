@@ -78,6 +78,7 @@
 - Place your index finger gently on the heart rate 3 click sensor (refer the fitness_tracker_demo_setup.jpg).
 - Wait till the LED "LED0" on SAM D21 Curiosity Nano board goes off and then lift your finger.
 - The heart rate value (in bpm - beats per minute) gets displayed on the eINK display.
+<img src = "images/fitness_tracker_demo_run.jpg" width="600" height="500" align="middle">
 
 ## Comments:
 - Place your index finger gently on the heart rate 3 click sensor, don’t push or put pressure on the sensor (the heart rate values may not be accurate).
@@ -86,4 +87,4 @@
 	- [Getting Started with Harmony v3 Peripheral Libraries on SAM D21 MCUs](https://microchipdeveloper.com/harmony3:samd21-getting-started-training-module)  
                
 ## Revision: 
-	- v1.0 Created demo.
+- v1.0 Created demo.
