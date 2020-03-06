@@ -60,12 +60,12 @@
 	- Select Device has "ATSAMD21G17D".
 	- Power the SAM D21 Curiosity Nano Evaluation Kit from a Host PC through a Type-A male to Micro-B USB cable connected to Micro-B port (J105).
 	- Once Power cable is connected, "PKOB nano" hardware tool is identified as a programmer.
-	- Browse to hex file (fitness_tracker_demo_file.hex).  
+	- Browse to hex file (fitness_tracker_hex_file.hex).  
 	- Click on program button. The device gets programmed in sometime.
 	- Follow the steps in "Running the Demo" section below.
 
 ## Programming/Debugging Application Project:
-- Open the project (fitness_tracker\firmware\fitness_tracker_demo.X) in MPLAB X IDE.
+- Open the project (fitness_tracker\firmware\sam_d21_cnano.X) in MPLAB X IDE.
 - Ensure "PKOB nano" is selected as hardware tool to program/debug the application.
 - Build the code and program the device by clicking on the "make and program" button in MPLAB X IDE tool bar.
 - Follow the steps in "Running the Demo" section below.  
