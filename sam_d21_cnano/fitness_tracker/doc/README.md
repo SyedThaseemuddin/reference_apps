@@ -1,5 +1,5 @@
 
-[![MCHP](https://cldup.com/U0qhLwBijF.png)](https://www.microchip.com) 
+[![MCHP](sam_d21_cnano/fitness_tracker/doc/images/MicrochipLogo.PNG)
 # Fitness Tracker Application Demo on SAM D21 Curiosity Nano and Nano Base for Click boards
 
 ## Description
