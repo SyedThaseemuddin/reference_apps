@@ -1,7 +1,7 @@
 
 ![Microchip logo](https://raw.githubusercontent.com/wiki/Microchip-MPLAB-Harmony/Microchip-MPLAB-Harmony.github.io/images/microchip_logo.png)
 ![Harmony logo small](https://raw.githubusercontent.com/wiki/Microchip-MPLAB-Harmony/Microchip-MPLAB-Harmony.github.io/images/microchip_mplab_harmony_logo_small.png)
-# Fitness Tracker Application Demo on SAM D21 Curiosity Nano and Nano Base for Click boards
+# Getting Started Application Demo on SAM D21 Curiosity Nano
 
 ## Description
 -----
@@ -35,7 +35,7 @@
 ## Setup:
 - Connect the SAM D2 Curiosity Nano Development Board to the Host PC as a USB Device through a Type-A male to micro-B USB cable connected to Micro-B USB (Debug USB) port.
 
-<img src = "images/fitness_tracker_demo_setup.jpg" width="600" height="500" align="middle">
+<img src = "images/getting_started_demo_setup.jpg" width="1000" height="500" align="middle">
 
 ## Programming binary/hex file:
 - If you are not interested in installing development tools. The pre-built binary/hex file can be programmed to the target.
