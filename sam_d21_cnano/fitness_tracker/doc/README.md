@@ -21,15 +21,38 @@
 
 ## MPLAB Harmony v3 Modules/Technology Used:
 -----
-> SPI Driver
-> I2C Driver        
-> Timer
-> EIC
-> STDIO
-> Core
+- SPI Driver
+- I2C Driver        
+- Timer
+- EIC
+- STDIO
+- Core
 
+## Hardware Used:
 
+- [SAM D21 Curiosity Nano Evaluation Kit](https://www.microchip.com/Developmenttools/ProductDetails/DM320119)   
+- [Curiosity Nano Base for click boards](https://www.microchip.com/Developmenttools/ProductDetails/AC164162)
+- [Heart Rate 3 click](https://www.mikroe.com/heart-rate-3-click)
+- [EINK CLICK BUNDLE](https://www.mikroe.com/eink-click)
 
+## Software/Tools Used:
+ - [MPLAB Harmony v3 "csp" repo v3.5.2](https://github.com/Microchip-MPLAB-Harmony/csp)
+ - [MPLAB Harmony v3 "core" repo v3.5.2)](https://github.com/Microchip-MPLAB-Harmony/core)          
+ - [MPLAB Harmony v3 "dev_packs" repo v3.5.0)](https://github.com/Microchip-MPLAB-Harmony/dev_packs)  
+ - [MPLAB Harmony v3 "mhc" repo v3.3.3)](https://github.com/Microchip-MPLAB-Harmony/mhc)    
+ - [MPLAB Harmony Configurator Plugin v3.4.0]
+ - [MPLAB X IDE v5.30](https://www.microchip.com/mplab/mplab-x-ide)
+ - [MPLAB XC32 Compiler v2.30](https://www.microchip.com/mplab/compilers)
+ - [MPLAB X IPE v5.30](https://www.microchip.com/mplab/mplab-integrated-programming-environment)
+
+## Setup:
+- Mount SAM D21 Curiosity Nano Evaluation Kit on "CNANO56_HOST_CONN"(U3) connector of Curiosity Nano Base board.
+- Mount Heart Rate 3 click board on mikro bus click 2 connector of Curiosity Nano Base board.
+- Mount the eINK click bundle (eINK click + eINK dispaly) on the mikro bus 3 connector of Curiosity Nano Base board.
+- Power the SAM D21 Curiosity Nano Evaluation Kit from a Host PC through a Type-A male to Micro-B USB cable connected to Micro-B port (J105). 
+      
+      
+      
 >The PIC18F47Q10 GPIO pin RE0, connected to LED0 on the Curiosity nano - Q10 board, is setup as an output to control the LED.
 
 >The project uses: [PIC18F47Q10 Microcontoller](https://www.microchip.com/wwwproducts/en/PIC18F47Q10)
