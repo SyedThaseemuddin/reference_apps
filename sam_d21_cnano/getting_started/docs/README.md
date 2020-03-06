@@ -11,7 +11,7 @@
 	500 milliseconds to one second, two seconds, four seconds and back to 500 milliseconds 
 	every time you press the switch SW0 on the SAM D21G17D Curiosity Nano Development Board.
 
-## MPLAB Harmony v3 Modules/Technology Used:
+## Modules/Technology Used:
 -----
 - EIC
 - RTC       
