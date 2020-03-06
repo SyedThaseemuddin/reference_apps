@@ -49,8 +49,12 @@
 - Mount SAM D21 Curiosity Nano Evaluation Kit on "CNANO56_HOST_CONN"(U3) connector of Curiosity Nano Base board.
 - Mount Heart Rate 3 click board on mikro bus click 2 connector of Curiosity Nano Base board.
 - Mount the eINK click bundle (eINK click + eINK dispaly) on the mikro bus 3 connector of Curiosity Nano Base board.
-- Power the SAM D21 Curiosity Nano Evaluation Kit from a Host PC through a Type-A male to Micro-B USB cable connected to Micro-B port (J105). 
-      
+- Power the SAM D21 Curiosity Nano Evaluation Kit from a Host PC through a Type-A male to Micro-B USB cable connected to Micro-B port (J105).
+
+<img src = "images/fitness_tracker_demo_setup.jpg" width="600" height="500" align="middle">
+
+
+
       
       
 >The PIC18F47Q10 GPIO pin RE0, connected to LED0 on the Curiosity nano - Q10 board, is setup as an output to control the LED.
