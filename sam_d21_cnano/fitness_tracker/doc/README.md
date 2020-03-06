@@ -19,7 +19,7 @@
     from the power source. The host MCU SAM D21 is interfaced with the Heart Rate 3 click over the I2C 
     interface and eINK click over SPI Interface. 
 
-## MPLAB Harmony v3 Modules/Technology Used:
+## Modules/Technology Used:
 -----
 - SPI Driver
 - I2C Driver        
