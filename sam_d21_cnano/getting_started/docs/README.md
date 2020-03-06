@@ -44,7 +44,7 @@
 	- Select Device has "ATSAMD21G17D".
 	- Power the SAM D21 Curiosity Nano Evaluation Kit from a Host PC through a Type-A male to Micro-B USB cable connected to Micro-B port (J105).
 	- Once Power cable is connected, "PKOB nano" hardware tool is identified as a programmer.
-	- Browse to hex file (getting_started_demo.hex).  
+	- Browse to hex file (getting_started_hex_file.hex).  
 	- Click on program button. The device gets programmed in sometime.
 	- Follow the steps in "Running the Demo" section below.
 
