@@ -86,7 +86,7 @@ connected to Micro-B port, and reconnect it back.
 	- Ensure that the jumpers for Current Measurement on the SAM L21 Xplained Pro are set to MEASURE for the MCU and BYPASS for the I/Os.
 		- <img src = "images/current_measurement_hw_setup.jpg" width="600" height="300" align="middle">
 	- The Power Analysis window will appear on the Data Visualizer tool interface.  
-	-	 <img src = "images/data_visualizer_power_analysis_window.png" width="600" height="300" align="middle">  
+		- <img src = "images/data_visualizer_power_analysis_window.png" width="600" height="300" align="middle">  
 	- The step image shows the device in Standby mode with its measured power consumption. You can observe small peaks that illustrate the 500 milliseconds Real-Time Clock (RTC) timer expiry.  
 		- <img src = "images/device_in_standby_mode.png" width="600" height="300" align="middle">  
 	**Note**: The average value is considered when measuring the power consumption of the device because the instant value is not stable. Then, the power consumption of the device in Standby mode is 6.99 µA.
