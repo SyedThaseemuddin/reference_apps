@@ -37,8 +37,7 @@ framework and application help. For more information on the tools, libraries
 and basic development with the MPLAB® Harmony Graphics Suite, please see the 
 gfx repo also on github.
 
-Refer to the following links for release notes, training materials, and interface
-reference information.
+Refer to the following links for release notes and reference application information.
 
 - [Release Notes](./release_notes.md)
 - [MPLAB® Harmony License](mplab_harmony_license.md)
