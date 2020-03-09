@@ -1,0 +1,29 @@
+build/pic32mz_ef_curiosity_2/production/_ext/1599799588/usb_device_msd.o:  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/src/usb_device_msd.c  \
+ ../src/config/pic32mz_ef_curiosity_2/driver/driver_common.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/usb_device_msd.h  \
+ ../src/config/pic32mz_ef_curiosity_2/configuration.h  \
+ ../src/config/pic32mz_ef_curiosity_2/user.h  \
+ ../src/config/pic32mz_ef_curiosity_2/toolchain_specifics.h  \
+ ../src/config/pic32mz_ef_curiosity_2/system/system_media.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/usb_common.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/usb_chapter_9.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/usb_device.h  \
+ ../src/config/pic32mz_ef_curiosity_2/system/system.h  \
+ ../src/config/pic32mz_ef_curiosity_2/system/system_common.h  \
+ ../src/config/pic32mz_ef_curiosity_2/system/system_module.h  \
+ ../src/config/pic32mz_ef_curiosity_2/system/system_common.h  \
+ ../src/config/pic32mz_ef_curiosity_2/driver/usb/drv_usb.h  \
+ ../src/config/pic32mz_ef_curiosity_2/system/int/sys_int.h  \
+ ../src/packs/PIC32MZ2048EFM144_DFP/device.h  \
+ ../src/config/pic32mz_ef_curiosity_2/toolchain_specifics.h  \
+ ../src/config/pic32mz_ef_curiosity_2/peripheral/evic/plib_evic.h  \
+ ../src/config/pic32mz_ef_curiosity_2/system/int/sys_int_mapping.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/usb_host_client_driver.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/usb_host.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/usb_host_hub_interface.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/src/usb_device_mapping.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/src/usb_device_function_driver.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/scsi.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/usb_msd.h  \
+ ../src/config/pic32mz_ef_curiosity_2/usb/src/usb_device_msd_local.h 
