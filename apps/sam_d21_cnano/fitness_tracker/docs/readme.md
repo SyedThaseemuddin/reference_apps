@@ -36,10 +36,10 @@
 - [EINK CLICK BUNDLE](https://www.mikroe.com/eink-click)
 
 ## Software/Tools Used:
- - [MPLAB Harmony v3 "csp" repo v3.5.2](https://github.com/Microchip-MPLAB-Harmony/csp)
- - [MPLAB Harmony v3 "core" repo v3.5.2)](https://github.com/Microchip-MPLAB-Harmony/core)          
- - [MPLAB Harmony v3 "dev_packs" repo v3.5.0)](https://github.com/Microchip-MPLAB-Harmony/dev_packs)  
- - [MPLAB Harmony v3 "mhc" repo v3.3.3)](https://github.com/Microchip-MPLAB-Harmony/mhc)    
+ - [MPLAB Harmony v3 "csp" repo v3.5.2](https://github.com/Microchip-MPLAB-Harmony/csp/releases/tag/v3.5.2)
+ - [MPLAB Harmony v3 "core" repo v3.5.2)](https://github.com/Microchip-MPLAB-Harmony/core/releases/tag/v3.5.2)          
+ - [MPLAB Harmony v3 "dev_packs" repo v3.5.0)](https://github.com/Microchip-MPLAB-Harmony/dev_packs/releases/tag/v3.5.0)  
+ - [MPLAB Harmony v3 "mhc" repo v3.3.3)](https://github.com/Microchip-MPLAB-Harmony/mhc/releases/tag/v3.3.3)    
  - [MPLAB Harmony Configurator Plugin v3.4.0]
  - [MPLAB X IDE v5.30](https://www.microchip.com/mplab/mplab-x-ide)
  - [MPLAB XC32 Compiler v2.30](https://www.microchip.com/mplab/compilers)
