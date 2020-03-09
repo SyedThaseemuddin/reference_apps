@@ -49,8 +49,8 @@ reference information.
 
 | Folder     | Description                                               |
 | ---        | ---                                                       |
-| apps        | Example applications for Aerospace library components      |
-| docs       | Aerospace library help documentation                       |
+| apps       | Example reference applications      |
+| docs       | Reference applications help documentation                      |
 
 
 ____
