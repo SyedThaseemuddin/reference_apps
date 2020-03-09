@@ -48,7 +48,7 @@
 ## Setup:
  - Connect ATWINC1500-XPRO to Extension header (J501) on Curiosity PIC32MZ EF 2.0 Development Board.   
  - Power the Curiosity PIC32MZ EF 2.0 Development Board from a Host PC through a Type-A male to micro-B USB cable connected to Micro-B port (J700).
-<img src = "images/wifi_rgb_easy_configuration_demo_setup.jpg" width="800" height="500" align="middle">
+<img src = "images/wifi_rgb_easy_configuration_demo_setup.png" width="650" height="300" align="middle">
 
 ## Programming binary/hex file:
 - If you are not interested in installing development tools. The pre-built binary/hex file can be programmed to the target.
