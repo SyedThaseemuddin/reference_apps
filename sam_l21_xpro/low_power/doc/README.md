@@ -74,41 +74,41 @@ connected to Micro-B port, and reconnect it back.
 - Change the baud rate to 115200. 
 - Perform a reset by pressing the "RESET" switch.
 - Verify the application title message is displayed.
-	 <img src = "images/console_message_after_reset.png" width="600" height="200" align="middle">  
+	- <img src = "images/console_message_after_reset.png" width="600" height="200" align="middle">  
 - Cover the light sensor on the I/O Xplained Pro board by placing your hand over it (or another element to put the light sensor in a dark environment) to print the temperature and message on the terminal. You should see the following messages (containing the temperature value in °F) on the terminal every 500 milliseconds for the duration the light sensor is covered.
-	 <img src = "images/console_message_after_covering_lightsensor.png" width="600" height="300" align="middle">  
+	- <img src = "images/console_message_after_covering_lightsensor.png" width="600" height="300" align="middle">  
 - Observe Current Consumption on Data Visualizer  
 **Note**: The Data Visualizer is a program to process and visualize data. The Data Visualizer can receive data from various sources such as the Embedded Debugger Data Gateway Interface (EDBG DGI) and COM ports. It is possible to track an application in run-time using a terminal graph or oscilloscope. It analyzes the power consumption of an application through correlation of code execution and power consumption when used together with a supported probe or board.
 	- Open the Data Visualizer application from your PC and select the connected SAM L21 Xplained Pro B board on the DGI Control Panel, then click on Connect. The Data Visualizer will then start searching for protocols from the SAM L21 Xplained Pro board through the EDBG.  
-	 <img src = "images/data_visualizer_dgi_control_panel_selection.png" width="600" height="300" align="middle">
+		- <img src = "images/data_visualizer_dgi_control_panel_selection.png" width="600" height="300" align="middle">
 	- Once the Data Visualizer is connected to the SAM L21 EDBG, different interfaces will appear. Select the Power interface and click on the Start button to start measuring the power consumption of the device.  
-	 <img src = "images/data_visualizer_power_start_buttons.png" width="600" height="300" align="middle">
+		- <img src = "images/data_visualizer_power_start_buttons.png" width="600" height="300" align="middle">
 	- Ensure that the jumpers for Current Measurement on the SAM L21 Xplained Pro are set to MEASURE for the MCU and BYPASS for the I/Os.
-	 <img src = "images/current_measurement_hw_setup.jpg" width="600" height="300" align="middle">
+		- <img src = "images/current_measurement_hw_setup.jpg" width="600" height="300" align="middle">
 	- The Power Analysis window will appear on the Data Visualizer tool interface.  
-	 <img src = "images/data_visualizer_power_analysis_window.png" width="600" height="300" align="middle">  
+	-	 <img src = "images/data_visualizer_power_analysis_window.png" width="600" height="300" align="middle">  
 	- The step image shows the device in Standby mode with its measured power consumption. You can observe small peaks that illustrate the 500 milliseconds Real-Time Clock (RTC) timer expiry.  
-	 <img src = "images/device_in_standby_mode.png" width="600" height="300" align="middle">  
+		- <img src = "images/device_in_standby_mode.png" width="600" height="300" align="middle">  
 	**Note**: The average value is considered when measuring the power consumption of the device because the instant value is not stable. Then, the power consumption of the device in Standby mode is 6.99 µA.
 	- Cover the light sensor on the I/O Xplained Pro board by placing your hand over it (or another element) to print the temperature on the terminal and observe the power consumption of the device.
-	 <img src = "images/device_wakes_up_and_print_temperature.png" width="600" height="300" align="middle"> 
+		- <img src = "images/device_wakes_up_and_print_temperature.png" width="600" height="300" align="middle"> 
 	- Press the SW0 button to switch from Standby mode to Idle mode. The following image shows the transition of the power consumption from Standby mode to Idle mode.
-	 <img src = "images/standby_idle_transition.png" width="600" height="300" align="middle"> 
+		- <img src = "images/standby_idle_transition.png" width="600" height="300" align="middle"> 
 	- The following image shows the device in Idle mode with a measured power consumption of 530 µA.  
-	 <img src = "images/device_in_idle_mode.png" width="600" height="300" align="middle">  
+		- <img src = "images/device_in_idle_mode.png" width="600" height="300" align="middle">  
 	**Note**: You can observe that the small peaks coming from RTC timer expiry disappeared because the power consumption in Idle mode is higher than the power required to start ADC conversion.	
 	- Place your hand over the light sensor. The device will wake up on the next ADC window monitor interrupt, read and print data on serial and then re-enter Standby mode. The following image shows the transition of the power consumption by switching from Idle mode to Standby mode.  
-	 <img src = "images/transition_from_idle_to_standby.png" width="600" height="300" align="middle">  
+		- <img src = "images/transition_from_idle_to_standby.png" width="600" height="300" align="middle">  
 	**Note** that the above results highlight the power consumption is lower in Standby mode than in Idle mode.
 - Wake-up Time Measurement Using Logic Analyzer/ Cathode-Ray Oscilloscope (CRO)  
 To demonstrate the CPU wake up time, switch SW0 is configured to generate an interrupt. A General Purpose Input/Output (GPIO) is toggled in the Interrupt Service Routine (ISR) of the switch press event. The MCU comes out of Sleep mode when an interrupt occurs (in this case, the switch press interrupt). The time between the switch press and the GPIO toggle in the ISR is the wake up time.
 	- Connect your logic analyzer or your CRO to the board according to the step image:  
-	 <img src = "images/low_power_demo_setup.jpg" width="800" height="600" align="middle">
+		- <img src = "images/low_power_demo_setup.jpg" width="800" height="600" align="middle">
 	- Press the SW0 switch and capture the signals to measure the wake-up time in Standby and Idle mode.  
 	The following image shows the wake-up time from Standby mode:  
-	 <img src = "images/wakeup_time_from_standby.png" width="600" height="150" align="middle">  
+		- <img src = "images/wakeup_time_from_standby.png" width="600" height="150" align="middle">  
 	The following image shows the wake-up time from Idle mode:  
-	- <img src = "images/wakeup_time_from_idle.png" width="600" height="150" align="middle">  
+		- <img src = "images/wakeup_time_from_idle.png" width="600" height="150" align="middle">  
 	By observing the outputs, you can conclude that the wake-up time is greater in Standby mode than in Idle mode
 
 ## Comments:
