@@ -71,20 +71,16 @@
 - Open Tera Term, connect to serial console. If there is any connection issue on tera terminal, unplug the USB cable connected to Micro-B port, and reconnect it back.
 - Change the baud rate to 115200. 
 - Perform a reset by pressing the "RESET" switch.
-- The serial terminal displays the below message
-	"TCP/IP Stack: Initialization Started
-	TCP/IP Stack: Initialization Ended - success
-	SYS_Initialize: The MPFS2 File System is mounted
-		Interface WINC on host MCHPBOARD_W     - NBNS enabled
-        WINC IP Address: 192.168.1.1"
+- The serial terminal displays the below message  
+"TCP/IP Stack: Initialization Started  
+TCP/IP Stack: Initialization Ended - success  
+SYS_Initialize: The MPFS2 File System is mounted  
+Interface WINC on host MCHPBOARD_W     - NBNS enabled  
+WINC IP Address: 192.168.1.1"  
 - When the demonstration runs, the WINC1500 goes into SoftAP mode (it behaves as an access point) and displays itself as "MCHPSoftAP" network		
-- From a smartphone or personal computer, connect to the "MCHPSoftAP" network, which is the SoftAP network 
-      started by the demonstration. Then, bring up a web page by entering the IP address(e.g., 192.168.1.1) of the 
-      SoftAP network into the smartphone browser.
-- When the web page is displayed, On the right top corner of the page, there is a widget through which you can 
-      change the color of the RGB LED on the Curiosity board. 
-- Click the text box to display a pop-up for selecting the color of the RGB LED. Click the Submit button to 
-      set the color of the RGB LED on the Curiosity board. 
+- From a smartphone or personal computer, connect to the "MCHPSoftAP" network, which is the SoftAP network started by the demonstration. Then, bring up a web page by entering the IP address(e.g., 192.168.1.1) of the SoftAP network into the smartphone browser.
+- When the web page is displayed, On the right top corner of the page, there is a widget through which you can change the color of the RGB LED on the Curiosity board. 
+- Click the text box to display a pop-up for selecting the color of the RGB LED. Click the Submit button to set the color of the RGB LED on the Curiosity board. 
 
 
 ## Comments:
