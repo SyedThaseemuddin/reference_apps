@@ -36,7 +36,7 @@ Refer to the following links for release notes and reference application informa
 
 - [Release Notes](./release_notes.md)
 - [MPLAB® Harmony License](mplab_harmony_license.md)
-- [MPLAB® Harmony 3 Reference Apps Wiki](https://github.com/Microchip-MPLAB-Harmony/referenceapps/wiki)
+- [MPLAB® Harmony 3 Reference Apps Wiki](https://github.com/SyedThaseemuddin/reference_apps.wiki.git)
 - [MPLAB® Harmony 3 Reference Applications Index](./docs/index.md)
 
 # Contents Summary
