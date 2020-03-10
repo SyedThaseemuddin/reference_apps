@@ -22,7 +22,7 @@ are developed on Microchip 32-bit SAM and PIC development boards/kits.
 In addition to having the MCU, the 32-bit SAM and PIC MCU development boards/kits 
 also provide support to exercise the features of MCU through additional hardware 
 like displays, communication buses, transceivers, sensors, external memories, etc.
-The additional hardware features are available on our MCU development boards/kits 
+The additional hardware features are available on the MCU development boards/kits 
 or is available as plugin through interface headers like mikroBUS Click or Xplained Pro extensions.
 
 The reference applications in this repository ranges from simple getting started to 
@@ -31,11 +31,6 @@ Audio, USB, TCP/IP, Wireless, Security, Low Power, RTOS, etc.  These application
 serve as a reference source to get started evaluating solutions on 32-bit SAM and 
 PIC MCUs by developing applications using MPLAB Harmony 3 software framework on 
 Microchip 32-bit SAM and PIC development boards/kits.   
-
-Refer to the following links for release notes, home page, training materials, 
-framework and application help. For more information on the tools, libraries 
-and basic development with the MPLAB® Harmony Graphics Suite, please see the 
-gfx repo also on github.
 
 Refer to the following links for release notes and reference application information.
 

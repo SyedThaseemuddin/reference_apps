@@ -84,10 +84,10 @@ WINC IP Address: 192.168.1.1"
 
 
 ## Comments:
-- While formatting the SD card, change allocation unit size to 32K. This helps in reading the contents of the SD card faster.
-      (To change allocation unit size, Right click on Drive > Select Format > change Allocation unit size)
+- While formatting the SD card, change allocation unit size to 32K. This helps in reading the contents of the SD card faster.  
+(To change allocation unit size, Right click on Drive > Select Format > change Allocation unit size)
 - This application is developed by applying a patch (available in folder "wifi_rgb_easy_configuration\wifi_repo_patch") to MPLAB Harmony v3 "wireless" repository. 
 If you need to reconfigure or regenerate this demo using MHC, please refer the "Notes.txt" file under "wifi_rgb_easy_configuration\wifi_repo_patch" folder.
               
 ## Revision: 
-- v1.0 Created demo.
+- v1.0 released new demo application.

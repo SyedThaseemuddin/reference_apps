@@ -80,4 +80,4 @@
 If you need to reconfigure or regenerate this demo using MHC, please refer the "Notes.txt" file under "msd_multiple_luns\usb_repo_patch" folder.
               
 ## Revision: 
-- v1.0 Released USB MSD demo with multiple drives.
+- v1.0 released new demo application.

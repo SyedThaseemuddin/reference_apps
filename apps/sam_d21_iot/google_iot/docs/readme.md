@@ -1,7 +1,7 @@
 
 ![Microchip logo](https://raw.githubusercontent.com/wiki/Microchip-MPLAB-Harmony/Microchip-MPLAB-Harmony.github.io/images/microchip_logo.png)
 ![Harmony logo small](https://raw.githubusercontent.com/wiki/Microchip-MPLAB-Harmony/Microchip-MPLAB-Harmony.github.io/images/microchip_mplab_harmony_logo_small.png)
-# Google IoT Application Demo on SAM D21 IoT Development Board
+# Google IoT Application Demo on SAM D21 IoT Evaluation Kit
 
 ## Description
 -----
@@ -59,4 +59,4 @@
 - TBD
                
 ## Revision: 
-- v1.0 released "Google IoT Application Demo on SAMD21 IoT Development Board".
+- v1.0 released new demo application.

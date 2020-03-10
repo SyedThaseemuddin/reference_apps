@@ -66,4 +66,4 @@
 	- [Getting Started with Harmony v3 Peripheral Libraries on SAM D21 MCUs](https://microchipdeveloper.com/harmony3:samd21-getting-started-training-module)  
                
 ## Revision: 
-- v1.0 released "Getting Started with SAM D21G17D Curiosity Nano Development Board Application Demo".
+- v1.0 released new demo application.

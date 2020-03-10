@@ -117,4 +117,4 @@ To demonstrate the CPU wake up time, switch SW0 is configured to generate an int
 	- [Low Power Application on SAM L21 (Cortex M0+) MCUs Using MPLAB Harmony v3 Peripheral Libraries](https://microchipdeveloper.com/harmony3:low-power-application-on-saml21#Steps_anchor)  
                
 ## Revision: 
-- v1.0 Created demo.
+- v1.0 released new demo application.
