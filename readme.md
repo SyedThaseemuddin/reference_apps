@@ -25,12 +25,15 @@ like displays, communication buses, transceivers, sensors, external memories, et
 The additional hardware features are available on the MCU development boards/kits 
 or is available as plugin through interface headers like mikroBUS Click or Xplained Pro extensions.
 
-The reference applications in this repository ranges from simple getting started to 
-larger feature-rich applications involving integration of several technologies like 
-Audio, USB, TCP/IP, Wireless, Security, Low Power, RTOS, etc.  These applications 
-serve as a reference source to get started evaluating solutions on 32-bit SAM and 
-PIC MCUs by developing applications using MPLAB Harmony 3 software framework on 
-Microchip 32-bit SAM and PIC development boards/kits.   
+
+Following are the typical application types in this repository
+- Large feature-rich applications involving integration of several technologies like Audio, USB, TCP/IP, Wireless, Security, Low Power, RTOS, etc. 
+- Applications demonstrating certain capabilities of the Microchip 32-bit SAM and PIC MCUs. For example: Low Power application on SAM L21 Xplained Pro Evaluation Kit demonstrating idle and standby modes
+- Applications demonstrating capabilities of Microchip 32-bit SAM and PIC MCUs development boards/kits (Curiosity, Nano, etc.) which allows extending hardware capability through mikroBUS Click or Xplained Pro extensions.
+
+These applications serve as a reference source to get started evaluating solutions on 32-bit SAM and PIC MCUs by developing applications using MPLAB Harmony 3 software framework on Microchip 32-bit SAM and PIC development boards/kits.
+
+**Note:** The applications in this repository are an alternative source of reference covering the above types. Technology specific applications are available in technology repositories like [csp](https://github.com/Microchip-MPLAB-Harmony/csp), [core](https://github.com/Microchip-MPLAB-Harmony/core), [usb](https://github.com/Microchip-MPLAB-Harmony/usb), [net](https://github.com/Microchip-MPLAB-Harmony/net), [audio](https://github.com/Microchip-MPLAB-Harmony/audio), [gfx_aps](https://github.com/Microchip-MPLAB-Harmony/gfx_apps), etc
 
 Refer to the following links for release notes and reference application information.
 
