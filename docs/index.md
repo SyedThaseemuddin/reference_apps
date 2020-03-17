@@ -7,8 +7,13 @@ This repository contains the MPLAB® Harmony 3 reference applications developed 
 
 ## Reference Applications
 
-The following reference applications are provided to evaluate solutions on 32-bit SAM and PIC MCUs. The applications ranges from simple getting started to 
-larger feature-rich applications involving integration of several technologies like Audio, USB, TCP/IP, Wireless, Security, Low Power, RTOS, etc.
+The following reference applications are provided to evaluate solutions on 32-bit SAM and PIC MCUs. 
+
+### **Note:** 
+The applications in this repository are an alternative source of reference involving integration of multiple technologies, extending hardware capabilities and demonstrating specific MCU features. 
+Technology specific applications are available in technology repositories like [csp](https://github.com/Microchip-MPLAB-Harmony/csp), [core](https://github.com/Microchip-MPLAB-Harmony/core), [usb](https://github.com/Microchip-MPLAB-Harmony/usb), [net](https://github.com/Microchip-MPLAB-Harmony/net), [audio](https://github.com/Microchip-MPLAB-Harmony/audio), [gfx_aps](https://github.com/Microchip-MPLAB-Harmony/gfx_apps), etc
+
+
 
 ### [Curiosity PIC32MZ EF 2.0 Development Board](https://www.microchip.com/Developmenttools/ProductDetails/DM320209)
 * [USB MSD with Multiple Drives](../apps/pic32mz_ef_curiosity_v2/msd_multiple_luns/docs/readme.md)
