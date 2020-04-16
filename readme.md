@@ -33,7 +33,9 @@ Following are the typical application types in this repository
 
 These applications serve as a reference source to get started evaluating solutions on 32-bit SAM and PIC MCUs by developing applications using MPLAB Harmony 3 software framework on Microchip 32-bit SAM and PIC development boards/kits.
 
-**Note:** The applications in this repository are an alternative source of reference covering the above types. Technology specific applications are available in technology repositories like [csp](https://github.com/Microchip-MPLAB-Harmony/csp), [core](https://github.com/Microchip-MPLAB-Harmony/core), [usb](https://github.com/Microchip-MPLAB-Harmony/usb), [net](https://github.com/Microchip-MPLAB-Harmony/net), [audio](https://github.com/Microchip-MPLAB-Harmony/audio), [gfx_aps](https://github.com/Microchip-MPLAB-Harmony/gfx_apps), etc
+<span style="color:red; font-size:1.5em; font-family:arial">**Note:**
+</span>  
+The applications in this repository are an alternative source of reference covering the above types. Technology specific applications are available in technology repositories like [csp](https://github.com/Microchip-MPLAB-Harmony/csp), [core](https://github.com/Microchip-MPLAB-Harmony/core), [usb](https://github.com/Microchip-MPLAB-Harmony/usb), [net](https://github.com/Microchip-MPLAB-Harmony/net), [audio](https://github.com/Microchip-MPLAB-Harmony/audio), [gfx_aps](https://github.com/Microchip-MPLAB-Harmony/gfx_apps), etc
 
 Refer to the following links for release notes and reference application information.
 
