@@ -39,18 +39,10 @@ The following table provides the list of new applications:
 | [audio_player_lab4](./apps/pic32mz_ef_sk+meb2/audio_player/audio_player_lab4) | SD Card Reader ".wav" Audio player | [PIC32MZ EF](https://www.microchip.com/wwwproducts/en/PIC32MZ2048EFM144) | [PIC32MZ Embedded Connectivity with FPU Starter Kit](http://www.microchip.com/Developmenttools/ProductDetails.aspx?PartNO=DM320007) + [Multimedia Expansion Board II](https://www.microchip.com/DevelopmentTools/ProductDetails/DM320005-5)|
 | [audio_player_lab5](./apps/pic32mz_ef_sk+meb2/audio_player/audio_player_lab5) | SD Card Audio Player/Reader with Aria Graphics | [PIC32MZ EF](https://www.microchip.com/wwwproducts/en/PIC32MZ2048EFM144) | [PIC32MZ Embedded Connectivity with FPU Starter Kit](http://www.microchip.com/Developmenttools/ProductDetails.aspx?PartNO=DM320007) + [Multimedia Expansion Board II](https://www.microchip.com/DevelopmentTools/ProductDetails/DM320005-5)|
 
-
-### Known Issues
-
-TBD
+### Updated Applications
+	- NA - 
 
 ### Development Tools
+ 
+* Refer documentation in folder "docs" in the specific application demo to know the tools and Harmony 3 packages used
 
-* TBD
-* TBD
-* TBD 
-
-### Dependent Components
-
-* TBD
-* TBD
