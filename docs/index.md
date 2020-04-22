@@ -59,6 +59,7 @@ Technology specific applications are available in technology repositories like [
 * [Getting Started](../apps/pic32mx470_curiosity/getting_started/docs/readme.md)
 
 ### [PIC32MZ Embedded Connectivity with FPU (EF) Starter Kit](https://www.microchip.com/Developmenttools/ProductDetails/DM320007) + [MEB-II](https://www.microchip.com/DevelopmentTools/ProductDetails/DM320005-5)
+* [SD Card Player/Reader series](../apps/pic32mz_ef_sk+meb2/audio_player/docs/readme.md)
 * [Audio-Tone using a Lookup Table](../apps/pic32mz_ef_sk+meb2/audio_player/audio_player_lab1/docs/readme.md)
 * [Audio-Tone Application by reading the tone from a text file stored in an SD card](../apps/pic32mz_ef_sk+meb2/audio_player/audio_player_lab2/docs/readme.md)
 * [SD Card Reader and Audio-Tone Application by reading the tone from a text file stored in an SD card](../apps/pic32mz_ef_sk+meb2/audio_player/audio_player_lab3/docs/readme.md)
