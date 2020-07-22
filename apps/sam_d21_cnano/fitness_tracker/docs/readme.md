@@ -2,7 +2,7 @@
 grand_parent: Reference Applications
 parent: SAM D21 Curiosity Nano Evaluation Kit
 title: Fitness Tracker
-name: "Fitness Tracker Application on SAM D21 Curiosity Nano and Nano Base for Click boards"
+name: "Fitness Tracker SyedTestSEO Application on SAM D21 Curiosity Nano and Nano Base for Click boards"
 nav_order: 2
 ---
 <img src = "images/microchip_logo.png">
